@@ -1,2 +1,1 @@
-# This is Git & GitHub Demo
-# dks
+### This is Git & GitHub Demo
